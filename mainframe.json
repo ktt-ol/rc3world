@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"mainframe."
+        }
+    },
  "height":187,
  "infinite":false,
  "layers":[
