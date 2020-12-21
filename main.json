@@ -108,8 +108,73 @@
          "tilewidth":32
         }, 
         {
+         "columns":27,
          "firstgid":77,
-         "source":"Previewneu.tsx"
+         "image":"Previewneu.png",
+         "imageheight":586,
+         "imagewidth":885,
+         "margin":0,
+         "name":"Previewneu",
+         "spacing":0,
+         "tilecount":486,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":305,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":387,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":433,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":10.2632,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":8.02632,
+                             "x":10.3947,
+                             "y":-1.71053
+                            }, 
+                            {
+                             "height":0,
+                             "id":2,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":0,
+                             "x":16.1842,
+                             "y":-15.2632
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
+                }],
+         "tilewidth":32
         }, 
         {
          "columns":15,
