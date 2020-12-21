@@ -80,104 +80,385 @@
          "source":"..\/Downloads\/tiles\/TilesDungeon\/Preview.tsx"
         }, 
         {
+         "columns":2,
          "firstgid":1,
-         "source":"worldExit.tsx"
+         "image":"worldExit.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"worldExit",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":5,
-         "source":"d7srtz4-a0e4ef47-db40-42f2-852d-87052162934f.tsx"
+         "image":"d7srtz4-a0e4ef47-db40-42f2-852d-87052162934f.png",
+         "imageheight":288,
+         "imagewidth":256,
+         "margin":0,
+         "name":"d7srtz4-a0e4ef47-db40-42f2-852d-87052162934f",
+         "spacing":0,
+         "tilecount":72,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":27,
          "firstgid":77,
-         "source":"Previewneu.tsx"
+         "image":"Previewneu.png",
+         "imageheight":586,
+         "imagewidth":885,
+         "margin":0,
+         "name":"Previewneu",
+         "spacing":0,
+         "tilecount":486,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":305,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":387,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":433,
+                 "objectgroup":
+                    {
+                     "draworder":"index",
+                     "id":2,
+                     "name":"",
+                     "objects":[
+                            {
+                             "height":10.2632,
+                             "id":1,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":8.02632,
+                             "x":10.3947,
+                             "y":-1.71053
+                            }, 
+                            {
+                             "height":0,
+                             "id":2,
+                             "name":"",
+                             "rotation":0,
+                             "type":"",
+                             "visible":true,
+                             "width":0,
+                             "x":16.1842,
+                             "y":-15.2632
+                            }],
+                     "opacity":1,
+                     "type":"objectgroup",
+                     "visible":true,
+                     "x":0,
+                     "y":0
+                    }
+                }],
+         "tilewidth":32
         }, 
         {
+         "columns":15,
          "firstgid":563,
-         "source":"cija_32x32_expansion for Pipoya_CC0.tsx"
+         "image":"cija_32x32_expansion for Pipoya_CC0.png",
+         "imageheight":4256,
+         "imagewidth":480,
+         "margin":0,
+         "name":"cija_32x32_expansion for Pipoya_CC0",
+         "spacing":0,
+         "tilecount":1995,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":2558,
-         "source":"k\u00fcche.tsx"
+         "image":"k\u00fcche.png",
+         "imageheight":288,
+         "imagewidth":256,
+         "margin":0,
+         "name":"k\u00fcche",
+         "spacing":0,
+         "tilecount":72,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":2630,
-         "source":"einrichtungs.tsx"
+         "image":"einrichtungs.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"einrichtungs",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":2886,
-         "source":"lounge.tsx"
+         "image":"lounge.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"lounge",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":3142,
-         "source":"01_mate.tsx"
+         "image":"01_mate.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"01_mate",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":3143,
-         "source":"03_mate_crates_2.tsx"
+         "image":"03_mate_crates_2.png",
+         "imageheight":96,
+         "imagewidth":32,
+         "margin":0,
+         "name":"03_mate_crates_2",
+         "spacing":0,
+         "tilecount":3,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":3146,
-         "source":"02_mate_crates_1.tsx"
+         "image":"02_mate_crates_1.png",
+         "imageheight":96,
+         "imagewidth":32,
+         "margin":0,
+         "name":"02_mate_crates_1",
+         "spacing":0,
+         "tilecount":3,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":3149,
-         "source":"01_beamer_32x32.tsx"
+         "image":"01_beamer_32x32.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"01_beamer_32x32",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":3150,
-         "source":"01_palette1.tsx"
+         "image":"01_palette1.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"01_palette1",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":3151,
-         "source":"03_rc3_Logo1.tsx"
+         "image":"03_rc3_Logo1.png",
+         "imageheight":96,
+         "imagewidth":32,
+         "margin":0,
+         "name":"03_rc3_Logo1",
+         "spacing":0,
+         "tilecount":3,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":3154,
-         "source":"03_shelve.tsx"
+         "image":"03_shelve.png",
+         "imageheight":96,
+         "imagewidth":64,
+         "margin":0,
+         "name":"03_shelve",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":3160,
-         "source":"04_shelve2_items.tsx"
+         "image":"04_shelve2_items.png",
+         "imageheight":96,
+         "imagewidth":32,
+         "margin":0,
+         "name":"04_shelve2_items",
+         "spacing":0,
+         "tilecount":3,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":3163,
-         "source":"05_mate_bottles_full.tsx"
+         "image":"05_mate_bottles_full.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"05_mate_bottles_full",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":3,
          "firstgid":3167,
-         "source":"05_rc3_m_brandy_rockets_1.tsx"
+         "image":"05_rc3_m_brandy_rockets_1.png",
+         "imageheight":64,
+         "imagewidth":96,
+         "margin":0,
+         "name":"05_rc3_m_brandy_rockets_1",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":3173,
-         "source":"05_shelve2.tsx"
+         "image":"05_shelve2.png",
+         "imageheight":96,
+         "imagewidth":32,
+         "margin":0,
+         "name":"05_shelve2",
+         "spacing":0,
+         "tilecount":3,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":3176,
-         "source":"07_toilette.tsx"
+         "image":"07_toilette.png",
+         "imageheight":64,
+         "imagewidth":32,
+         "margin":0,
+         "name":"07_toilette",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":3178,
-         "source":"08_tuer_doppel_blau.tsx"
+         "image":"08_tuer_doppel_blau.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"08_tuer_doppel_blau",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":5,
          "firstgid":3182,
-         "source":"09_container_cyber.tsx"
+         "image":"09_container_cyber.png",
+         "imageheight":128,
+         "imagewidth":160,
+         "margin":0,
+         "name":"09_container_cyber",
+         "spacing":0,
+         "tilecount":20,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":3202,
-         "source":"09_workstations.tsx"
+         "image":"09_workstations.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"09_workstations",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":3206,
-         "source":"11_telephone_sideways.tsx"
+         "image":"11_telephone_sideways.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"11_telephone_sideways",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":3207,
-         "source":"13_winkekatze.tsx"
+         "image":"13_winkekatze.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"13_winkekatze",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":3208,
-         "source":"AceSet-Hospital.tsx"
+         "image":"AceSet-Hospital.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"AceSet-Hospital",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
