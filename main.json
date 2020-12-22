@@ -1900,8 +1900,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":3468,
-         "source":"mainframe-oldenburg.tsx"
+         "image":"mainframe-oldenburg.png",
+         "imageheight":332,
+         "imagewidth":332,
+         "margin":0,
+         "name":"mainframe-oldenburg",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
