@@ -141,7 +141,7 @@
                          "value":"conference.jpg"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"image",
                  "visible":true,
                  "width":32,
                  "x":1020,
