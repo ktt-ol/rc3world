@@ -66,9 +66,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.kreativitaet-trifft-technik.de\/mainframe.html"
+                 "name":"image",
+                 "type":"file",
+                 "value":"conference.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
