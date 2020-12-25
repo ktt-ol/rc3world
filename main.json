@@ -111,42 +111,7 @@
          "draworder":"topdown",
          "id":14,
          "name":"bildtest",
-         "objects":[
-                {
-                 "gid":3495,
-                 "height":32,
-                 "id":8,
-                 "name":"bild",
-                 "properties":[
-                        {
-                         "name":"bild",
-                         "type":"object",
-                         "value":8
-                        }, 
-                        {
-                         "name":"image",
-                         "type":"file",
-                         "value":"conference.jpg"
-                        }],
-                 "rotation":0,
-                 "type":"bild",
-                 "visible":true,
-                 "width":32,
-                 "x":952,
-                 "y":3666
-                }, 
-                {
-                 "gid":3501,
-                 "height":32,
-                 "id":9,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":32,
-                 "x":1324,
-                 "y":3751
-                }],
+         "objects":[],
          "offsetx":24,
          "offsety":36,
          "opacity":1,
@@ -2476,6 +2441,12 @@
          "tiles":[
                 {
                  "id":5,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.kreativitaet-trifft-technik.de\/mainframe.html"
+                        }],
                  "type":"bild"
                 }],
          "tilewidth":32
