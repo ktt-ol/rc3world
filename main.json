@@ -122,6 +122,11 @@
                          "name":"bild",
                          "type":"file",
                          "value":"conference.png"
+                        }, 
+                        {
+                         "name":"test",
+                         "type":"object",
+                         "value":7
                         }],
                  "rotation":0,
                  "type":"bild",
