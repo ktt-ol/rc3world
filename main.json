@@ -2481,7 +2481,8 @@
                          "name":"image",
                          "type":"file",
                          "value":"conference.jpg"
-                        }]
+                        }],
+                 "type":"bild"
                 }],
          "tilewidth":32
         }, 
