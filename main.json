@@ -2476,12 +2476,6 @@
          "tiles":[
                 {
                  "id":5,
-                 "properties":[
-                        {
-                         "name":"image",
-                         "type":"file",
-                         "value":"conference.jpg"
-                        }],
                  "type":"bild"
                 }],
          "tilewidth":32
