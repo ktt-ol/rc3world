@@ -101,6 +101,12 @@
          "id":13,
          "name":"conference",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.kreativitaet-trifft-technik.de\/mainframe.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":122,
@@ -2441,12 +2447,6 @@
          "tiles":[
                 {
                  "id":5,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/www.kreativitaet-trifft-technik.de\/mainframe.html"
-                        }],
                  "type":"bild"
                 }],
          "tilewidth":32
