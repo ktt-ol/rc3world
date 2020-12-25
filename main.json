@@ -103,9 +103,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openImage",
+                 "name":"Image",
                  "type":"file",
-                 "value":"conference.png"
+                 "value":"https:\/\/github.com\/ktt-ol\/rc3world\/blob\/main\/conference.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
