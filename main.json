@@ -68,7 +68,7 @@
                 {
                  "name":"image",
                  "type":"file",
-                 "value":"..\/conference.jpg"
+                 "value":"conference.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
