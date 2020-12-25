@@ -126,8 +126,26 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":1149,
-                 "y":3716
+                 "x":1153,
+                 "y":3720
+                }, 
+                {
+                 "gid":3489,
+                 "height":32,
+                 "id":3,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"image",
+                         "type":"file",
+                         "value":"conference.png"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":1163,
+                 "y":3681
                 }],
          "offsetx":24,
          "offsety":36,
@@ -138,7 +156,7 @@
          "y":0
         }],
  "nextlayerid":15,
- "nextobjectid":3,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "properties":[
         {
