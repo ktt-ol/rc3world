@@ -103,7 +103,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"image",
+                 "name":"openImage",
                  "type":"file",
                  "value":"conference.jpg"
                 }],
