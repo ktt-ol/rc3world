@@ -113,23 +113,6 @@
          "name":"bildtest",
          "objects":[
                 {
-                 "height":5,
-                 "id":1,
-                 "name":"conference",
-                 "properties":[
-                        {
-                         "name":"Image ",
-                         "type":"file",
-                         "value":"conference.png"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":1153,
-                 "y":3720
-                }, 
-                {
                  "gid":3489,
                  "height":32,
                  "id":3,
@@ -139,6 +122,11 @@
                          "name":"image",
                          "type":"file",
                          "value":"conference.jpg"
+                        }, 
+                        {
+                         "name":"test",
+                         "type":"object",
+                         "value":3
                         }],
                  "rotation":0,
                  "type":"image",
