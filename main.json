@@ -67,7 +67,7 @@
          "properties":[
                 {
                  "name":"image",
-                 "type":"file",
+                 "type":"string",
                  "value":"conference.jpg"
                 }],
          "type":"tilelayer",
