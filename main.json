@@ -105,7 +105,7 @@
                 {
                  "name":"openImage",
                  "type":"file",
-                 "value":"conference.jpg"
+                 "value":"conference.png"
                 }],
          "type":"tilelayer",
          "visible":true,
