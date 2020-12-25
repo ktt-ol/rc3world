@@ -62,30 +62,7 @@
          "draworder":"topdown",
          "id":10,
          "name":"floorLayer",
-         "objects":[
-                {
-                 "gid":3489,
-                 "height":32,
-                 "id":3,
-                 "name":"conference",
-                 "properties":[
-                        {
-                         "name":"image",
-                         "type":"file",
-                         "value":"conference.png"
-                        }, 
-                        {
-                         "name":"test",
-                         "type":"object",
-                         "value":3
-                        }],
-                 "rotation":0,
-                 "type":"image",
-                 "visible":true,
-                 "width":34,
-                 "x":1120,
-                 "y":3291
-                }],
+         "objects":[],
          "offsetx":29.3333,
          "offsety":446.667,
          "opacity":1,
@@ -134,7 +111,25 @@
          "draworder":"topdown",
          "id":14,
          "name":"bildtest",
-         "objects":[],
+         "objects":[
+                {
+                 "gid":3489,
+                 "height":32,
+                 "id":7,
+                 "name":"bild",
+                 "properties":[
+                        {
+                         "name":"bild",
+                         "type":"file",
+                         "value":"conference.png"
+                        }],
+                 "rotation":0,
+                 "type":"bild",
+                 "visible":true,
+                 "width":32,
+                 "x":1159,
+                 "y":3697
+                }],
          "offsetx":24,
          "offsety":36,
          "opacity":1,
@@ -144,7 +139,7 @@
          "y":0
         }],
  "nextlayerid":15,
- "nextobjectid":7,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "properties":[
         {
