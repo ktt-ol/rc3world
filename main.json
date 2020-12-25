@@ -2473,6 +2473,16 @@
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":5,
+                 "properties":[
+                        {
+                         "name":"image",
+                         "type":"file",
+                         "value":"conference.jpg"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
