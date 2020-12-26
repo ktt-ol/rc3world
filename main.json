@@ -68,7 +68,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/ktt-ol\/rc3world\/blob\/main\/conference.jpg"
+                 "value":"https:\/\/www.kreativitaet-trifft-technik.de\/room\/small_conference.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
