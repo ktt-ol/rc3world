@@ -92,6 +92,35 @@
                  "width":32,
                  "x":892,
                  "y":3386
+                }, 
+                {
+                 "gid":3150,
+                 "height":32,
+                 "id":12,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":901,
+                 "y":3289
+                }, 
+                {
+                 "height":19,
+                 "id":13,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffaa00",
+                     "text":"Hallo Welt",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":80.984375,
+                 "x":941.5078125,
+                 "y":3250.5
                 }],
          "offsetx":24,
          "offsety":36,
@@ -99,7 +128,7 @@
          "properties":[
                 {
                  "name":"bild",
-                 "type":"string",
+                 "type":"file",
                  "value":"conference.png"
                 }, 
                 {
@@ -150,7 +179,7 @@
          "y":0
         }],
  "nextlayerid":15,
- "nextobjectid":11,
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "properties":[
         {
