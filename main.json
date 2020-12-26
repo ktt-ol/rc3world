@@ -78,6 +78,19 @@
         }, 
         {
          "draworder":"topdown",
+         "id":10,
+         "name":"floorLayer",
+         "objects":[],
+         "offsetx":29.3333,
+         "offsety":446.667,
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":14,
          "name":"bildtest",
          "objects":[
@@ -136,19 +149,6 @@
                  "type":"object",
                  "value":10
                 }],
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":10,
-         "name":"floorLayer",
-         "objects":[],
-         "offsetx":29.3333,
-         "offsety":446.667,
-         "opacity":1,
          "type":"objectgroup",
          "visible":true,
          "x":0,
