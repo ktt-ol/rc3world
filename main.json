@@ -55,8 +55,8 @@
          "properties":[
                 {
                  "name":"exitUrl",
-                 "type":"bool",
-                 "value":true
+                 "type":"string",
+                 "value":"{<lobby>\/maps\/hardware-making.json#start_rc3spacelink}"
                 }],
          "type":"tilelayer",
          "visible":true,
